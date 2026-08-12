@@ -1,10 +1,10 @@
 # Welcome, I am Davi Regattieri
 
-Determined to build a solid career in Software Engineering. Currently focusing on the fundamentals of CS and Back-end development while preparing for my degree in **Computer Science**.
+Determined to build a solid career in Software Engineering. Currently focusing on the fundamentals of CS development while preparing for my degree in **Computer Science**.
 
 ### 🛠 Professional Focus & Skills
 - **Academic Goal:** Pursuing a B.S. in Computer Science at UFES.
-- **Core Language:** Python (Current focus on logic and algorithms).
+- **Core Language:** Python.
 - **Tools:** Git & GitHub for version control and documentation.
 
 ### 🛡 Tech Stack (Under Development)
@@ -13,9 +13,8 @@ Determined to build a solid career in Software Engineering. Currently focusing o
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📈 Current Status
-- Studying back-end architecture and algorithmic logic.
+- First semester on CS - UFES.
 - Documenting all progress through practical repositories.
-- Preparing for the transition to the academic environment in São Mateus, ES.
 
 ---
 *"Consistency is the foundation of excellence."*
