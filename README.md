@@ -1,6 +1,6 @@
 # Welcome, I am Davi Regattieri
 
-Determined to build a solid career in Software Engineering. Currently focusing on the fundamentals of CS development while studying for my degree in **Computer Science**.
+Building a solid career in Data Science.
 
 ### 🛠 Professional Focus & Skills
 - **Academic Goal:** Pursuing a B.S. in Computer Science at UFES.
